@@ -21,7 +21,7 @@ setup(
         name='argparse_plus',
         version='0.1.0',
         description='ArgumentParser Plus',
-        long_description = open('README.rst').read(),
+        long_description = 'See homepage for usage',
         author='Patrick Ng',
         author_email='pn.appdev@gmail.com',
         url='https://github.com/pnpnpn/argparse-plus',
