@@ -2,9 +2,10 @@
 
 Usage
 -----
-Automatically resolve `%(prog)s` to name of python file in `epilog`.
+Automatically resolve ``%(prog)s`` to name of python file in ``epilog``.
 
 ::
+
     epilog = """
 
     Examples:
